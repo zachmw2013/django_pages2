@@ -1,1 +1,1 @@
-web: gunicorn django_pages.ws
+web: gunicorn django_pages.wsgi
